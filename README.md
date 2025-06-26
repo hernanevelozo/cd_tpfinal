@@ -95,4 +95,8 @@ Com o ambiente configurado, você pode rodar a suíte de testes automatizados pa
 
 ```bash
 python -m unittest discover -v
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 2518471 (Versão inicial do projeto com documentação local)
